@@ -28,7 +28,7 @@
 <script setup>
   import {ref, computed} from 'vue';
 
-  const name = ' hola Vue dinamico!';
+  const name = ' esto es un Vue dinamico!';
 
   const counter = ref(0);
 
